@@ -1,0 +1,7 @@
+{
+  "name": "FloatNotesAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YScott Domes <scott@musefind.com>",
+  "license": "MIT"
+}
